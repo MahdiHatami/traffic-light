@@ -3,7 +3,7 @@ funcsigs==1.0.2
 h5py==2.6.0
 Keras==1.2.2
 mock==2.0.0
-numpy==1.12.0
+numpy==1.22.0
 olefile==0.44
 packaging==16.8
 pbr==1.10.0
